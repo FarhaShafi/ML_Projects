@@ -11,3 +11,8 @@ Regression folder contains jupyter notebook file with following:
   1. Loading and Preprocessing
   2. Regression Algorithm Implementation
   3. Model Evaluation and Comparison
+
+Classification folder contains jupyter notebook file with following:
+  1. Loading and Preprocessing
+  2. Classification Algorithm Implementation
+  3. Model Comparison
