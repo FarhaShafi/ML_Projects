@@ -16,3 +16,8 @@ Classification folder contains jupyter notebook file with following:
   1. Loading and Preprocessing
   2. Classification Algorithm Implementation
   3. Model Comparison
+
+Clustering folder contains jupyter notebook file with following:
+  1. Loading and Preprocessing
+  2. Clustering Algorithm Implementation
+  3. Visualizing the clusters.
