@@ -16,3 +16,10 @@ Classification folder contains jupyter notebook file with following:
   1. Loading and Preprocessing
   2. Classification Algorithm Implementation
   3. Model Comparison
+
+ModuleEnd_Assignment folder contains jupyter notebook file with following:
+  1. Loading and Preprocessing
+  2. Model Implementation
+  3. Model Evaluation
+  4. Feature Importance Analysis
+  5. Hyperparameter Tuning
